@@ -215,7 +215,7 @@ public final class FSTClazzInfo {
     }
 
     public boolean isExternalizable() {
-        return externalizable;
+        return false;
     }
 
     public final boolean isFlat() {
