@@ -8,9 +8,9 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>de.ruedigermoeller</groupId>
-    <artifactId>fst</artifactId>
-    <version>3.0.1</version>
+    <groupId>com.github.himulawang</groupId>
+    <artifactId>fast-serialization</artifactId>
+    <version>v2.58</version>
     <packaging>bundle</packaging>
 
     <description>A fast java serialization drop in-replacement and some serialization based utils such as Structs and OffHeap Memory.</description>
@@ -25,9 +25,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/RuedigerMoeller/fast-serialization/</url>
-        <connection>scm:git:git://github.com/RuedigerMoeller/fast-serialization.git</connection>
-        <developerConnection>scm:git:git@github.com:RuedigerMoeller/fast-serialization.git</developerConnection>
+        <url>https://github.com/himulawang/fast-serialization/</url>
+        <connection>scm:git:git://github.com/himulawang/fast-serialization.git</connection>
+        <developerConnection>scm:git:git://github.com/himulawang/fast-serialization.git</developerConnection>
     </scm>
 
     <!--
